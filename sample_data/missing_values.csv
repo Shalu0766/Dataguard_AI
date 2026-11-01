@@ -1,0 +1,5 @@
+customer_id,name,email,age,city
+2001,Alex Kim,alex@example.com,28,Portland
+2002,Jamie Fox,jamie@example.com,,Seattle
+2003,Riley Shah,,34,
+2004,Robin Cruz,robin@example.com,41,Boston

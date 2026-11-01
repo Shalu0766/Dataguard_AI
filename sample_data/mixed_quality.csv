@@ -1,0 +1,7 @@
+customer_id,name,email,age,city,annual_income
+1, Avery Stone ,avery@example.com,29,Austin,72000
+2,Jordan Lee,jordan.example.com,41,Seattle,
+3,Casey Park,casey@example.com,-4,Denver,84000
+3,Casey Park,casey@example.com,-4,Denver,84000
+4,Morgan Reed,,52,Boston,112000
+5,Sam Chen,sam@example.com,36,Chicago,2000000

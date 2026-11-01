@@ -1,0 +1,7 @@
+record_id,feature_a,feature_b,outcome
+1,0.12,12.4,approved
+2,0.33,9.8,approved
+3,0.45,15.1,approved
+4,0.24,11.2,approved
+5,0.77,8.6,approved
+6,0.56,10.3,denied

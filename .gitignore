@@ -1,0 +1,13 @@
+node_modules/
+dist/
+backend/.venv/
+backend/__pycache__/
+backend/app/__pycache__/
+**/__pycache__/
+.pytest_cache/
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/dataguard.db
+*.pyc
+*.tsbuildinfo
+.env

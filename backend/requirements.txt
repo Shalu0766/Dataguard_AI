@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+pandas
+numpy
+openpyxl
+xlrd>=2.0.1
+python-multipart
+python-jose[cryptography]
+reportlab
+pytest

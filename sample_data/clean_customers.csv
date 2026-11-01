@@ -1,0 +1,5 @@
+customer_id,name,email,age,city,annual_income
+1001,Avery Stone,avery@example.com,29,Austin,72000
+1002,Jordan Lee,jordan@example.com,41,Seattle,98000
+1003,Casey Park,casey@example.com,35,Denver,84000
+1004,Morgan Reed,morgan@example.com,52,Boston,112000
